@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+%matplotlib inline
 
 x = [1,2,3,4,5,6,7]
 y = [51,52,53,50,48,49,46]
